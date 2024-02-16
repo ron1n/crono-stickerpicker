@@ -42,7 +42,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           tag_name: 0.${{ github.run_number }}
-          prerelease: true
+          prerelease: false
           files: stickers.zip
         env:
           GITHUB_REPOSITORY: ron1n/crono-stickerpicker
