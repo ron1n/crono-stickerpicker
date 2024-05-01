@@ -1,4 +1,4 @@
-# Maunium sticker picker - now with CronoLabs support!
+# Maunium sticker picker - ~~now with CronoLabs support!~~ CronoLabs is dead. Long live CronoLabs @ Matrix.org!
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS. Zips available in [releases](https://github.com/ron1n/crono-stickerpicker/releases) for the clients that prefer emotes (FluffyChat)  
 
 ## Discussion for Maunium Sticker Picker
