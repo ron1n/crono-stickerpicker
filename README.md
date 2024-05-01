@@ -5,7 +5,7 @@ A fast and simple Matrix sticker picker widget. Tested on Element Web, Android &
 Matrix room: [`#stickerpicker:maunium.net`](https://matrix.to/#/#stickerpicker:maunium.net)
 
 ## Discussion for this fork and sticker submissions
-Matrix room: ['GDB'](https://matrix.to/#/!IZWFQIHtOCfLKCIURi:matrix.org?via=matrix.org)
+Matrix room: #GDB in the CronoLabs space
 
 Any adverse side effects up to including:
 
